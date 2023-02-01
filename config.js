@@ -6,19 +6,19 @@ const chalk = require("chalk")
 //===================================== 
 //-------------------------------------
 
-global.log0 = "https://telegra.ph/file/891dd12dfb6515ebc79d2.jpg"  //< AKI
+global.log0 = "https://telegra.ph/file/05dc5fe54d7e8d54555a4.jpg"  //< AKI
 //FOTO DO BOT/MENU
 //-------------------------------------//-------------------------------------
 //-------------------------------------//-------------------------------------
-global.thumb = "https://telegra.ph/file/891dd12dfb6515ebc79d2.jpg"   //AKI
+global.thumb = "https://telegra.ph/file/05dc5fe54d7e8d54555a4.jpg"   //AKI
 //FOTO DA THUMB ( DO CONST|SELO )
 //-------------------------------------//-------------------------------------
 //-------------------------------------//-------------------------------------
-global.err4r = "https://telegra.ph/file/891dd12dfb6515ebc79d2.jpg" /// <AKI
+global.err4r = "https://telegra.ph/file/05dc5fe54d7e8d54555a4.jpg" /// <AKI
 //// FOTO K
 //-------------------------------------//-------------------------------------
 //-------------------------------------//-------------------------------------
-global.numerodonoa = ["5521989701174"]//<AKI
+global.numerodonoa = ["5532988715609"]//<AKI
 /// NÚMERO DO " DONO ".... 
 //-------------------------------------//-------------------------------------
 //-------------------------------------//-------------------------------------
@@ -43,16 +43,16 @@ global.packname = "alizin domina - @hackzinhox" //// < NÃO MUDE NADA AKI, CASO 
 global.packname2 = `#Teamduda - by alizin`//// < NÃO MUDE NADA AKI, CASO NÃO QUERIA ERROS.
 //-------------------------------------//-------------------------------------
 //-------------------------------------//-------------------------------------
-global.author = "𝐀𝐥𝐢𝐳𝐢𝐧 𝐝𝐞𝐯 🙅🏾‍♂️ " //NOME DA FIGURINHAS. ( MUDE SE QUISER )...
+global.author = "Grupo Trollagens " //NOME DA FIGURINHAS. ( MUDE SE QUISER )...
 //-------------------------------------//-------------------------------------
 //-------------------------------------//-------------------------------------
 global.sessionName = "QR-DA-DUDA-BOT" //// < NÃO MUDE NADA AKI, CASO NÃO QUERIA ERROS.
 //-------------------------------------//-------------------------------------
 //-------------------------------------//-------------------------------------
-global.NomeDoBot = "ঔৣ͜͡ீ͜❥͜𝐃𝐔𝐃𝐀 𝐁𝐎𝐓ू ፝͜❥" //// < NOME DA(O) BOT ( COLOQUE QUALQUER NOME )
+global.NomeDoBot = "Trollagens-BOT" //// < NOME DA(O) BOT ( COLOQUE QUALQUER NOME )
 //-------------------------------------//-------------------------------------
 //-------------------------------------//-------------------------------------
-global.linkgrupss = "https://chat.whatsapp.com/" //// < LINK DO GRUPO, MUDE SE QUISER.
+global.linkgrupss = "https://chat.whatsapp.com/G8Vr5H7a2PjAuJXTo5fS30" //// < LINK DO GRUPO, MUDE SE QUISER.
 //-------------------------------------//-------------------------------------
 //-------------------------------------//-------------------------------------
 //-------------------------------------//-------------------------------------
@@ -72,7 +72,7 @@ global.alizin𝐎dev5 = "$"//<--PREFIXO
 
 
 
-global.NickDono = "𝐀𝐥𝐢𝐳𝐢𝐧 𝐝𝐞𝐯 🙅🏾‍♂️ " //// < NICK ( NOME ) DO " DONO "... MUDE,SE QUISER, CLARUH.
+global.NickDono = "Café " //// < NICK ( NOME ) DO " DONO "... MUDE,SE QUISER, CLARUH.
 //-------------------------------------//-------------------------------------
 //-------------------------------------//-------------------------------------
 //-------------------------------------//-------------------------------------
@@ -107,7 +107,7 @@ global.mess = {
     
     premium: '[❗] ESTE PEDIDO É SO PARA *USUÁRIOS PREMIUMS*',
     
-    ban: '*VOCÊ FOI  BANIDO PELO DONO, SE QUISER SER & DESBANIDO DO BOT FALA COM O DONO!.*'
+    ban: '*TCHAU, CORNO.*'
 }
 
 //===================================== 
